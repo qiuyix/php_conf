@@ -1,0 +1,18 @@
+{
+    "name": "tingyu/yi_conf",
+    "description": "配置读取",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "tingyu\\YiConf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iXiong",
+            "email": "qiuyix@sina.cn"
+        }
+    ],
+    "require": {}
+}
