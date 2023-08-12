@@ -8,6 +8,12 @@
             "tingyu\\YiConf\\": "src/"
         }
     },
+    "minimum-stability": "dev",
+    "extra":{
+        "branch-alias":{
+            "dev-develop":"dev"
+        }
+    },
     "authors": [
         {
             "name": "iXiong",
